@@ -63,6 +63,6 @@ public class ProjetoSalario {
             System.out.println("Salário líquido: R$ " + formatarSalario(salarioLiquido));
 
         }
-
+        leitura.close();
     }
 }
